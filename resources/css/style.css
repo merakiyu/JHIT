@@ -527,17 +527,16 @@ img.shipment {
     background-color: #fff;
 }
 
-.ind-box {
-    padding: 0, 10px;
+.industry-row{
+    width: 90%;
+    margin: 0 auto;
 }
 
 .industry-img{
     display: block;
-    width: 300px;
+    width: 330px;
     height: auto;
-}
-.industry-row {
-    margin: 0 auto;
+    margin:auto auto;
 }
 
 img.client-logo {
