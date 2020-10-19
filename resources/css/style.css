@@ -527,12 +527,15 @@ img.shipment {
     background-color: #fff;
 }
 
-.section-testimonials .row {
-    max-height: 180px;
-}
+
 .industry-img{
-    max-height: 300px;
-    width: 100%;
+    display: block;
+    width: 300px;
+    height: auto;
+}
+.industry-row {
+    width: 90%;
+    margin: 0 auto;
 }
 
 img.client-logo {
@@ -555,19 +558,6 @@ img.client-logo {
 }
 
 
-
-cite {
-    font-size: 90%;
-    margin-top: 25px;
-    display: block;
-}
-
-cite img {
-    height: 45px;
-    border-radius: 50%; /* makes the profile pic round */
-    margin-right: 10px;
-    vertical-align: middle;
-}
 
 
 /* ----------------------------------------------- */
