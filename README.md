@@ -5,3 +5,4 @@ This website is made for CNR Trading. It's a industrial power transmission compo
 
 ### Demo link
 - https://www.cnrtrd.com
+- https://gifted-tereshkova-998a89.netlify.app/
