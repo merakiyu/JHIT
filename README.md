@@ -4,6 +4,4 @@ This website is made for CNR Trading. It's a industrial power transmission compo
 
 
 ### Demo link
-
-- https://relaxed-heisenberg-260b7b.netlify.app
 - https://www.cnrtrd.com
