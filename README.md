@@ -4,6 +4,6 @@ This website is made for CNR Trading. It's a industrial power transmission compo
 
 
 ### Demo link
-- https://merakiyu.github.io/cnr_web
-- https://modest-johnson-ff4325.netlify.app
+
+- https://relaxed-heisenberg-260b7b.netlify.app
 - https://www.cnrtrd.com
