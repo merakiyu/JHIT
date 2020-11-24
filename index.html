@@ -287,7 +287,7 @@
                         <label for="company">Company</label>
                     </div>
                     <div class="col span-2-of-3">
-                        <input type="text" name="company" id="company" placeholder="Company Name" required>
+                        <input type="text" name="company" id="company" placeholder="Optional">
                     </div>
                 </div>
                 <div class="row">
@@ -300,14 +300,14 @@
                 </div>
                 <div class="row">
                     <div class="col span-1-of-3">
-                        <label for="find-us">Product Type</label>
+                        <label for="product-type">Product Type</label>
                     </div>
                     <div class="col span-2-of-3">
-                        <select name="find-us" id="find-us">
-                            <option value="friends" selected>Bearing</option>
-                            <option value="search">Bearing Housing</option>
-                            <option value="ad">Chains</option>
-                            <option value="other">Others</option>
+                        <select name="role[]">
+                            <option value="bearing" selected>Bearing</option>
+                            <option value="bearing housing">Bearing Housing</option>
+                            <option value="chain">Chains</option>
+                            <option value="others">Others</option>
                         </select>
                     </div>
                 </div>
@@ -321,7 +321,7 @@
                 </div>
                 <div class="row">
                     <div class="col span-1-of-3">
-                        <label>Drop us a line</label>
+                        <label>Message</label>
                     </div>
                     <div class="col span-2-of-3">
                         <textarea name="message" placeholder="Your message"></textarea>
