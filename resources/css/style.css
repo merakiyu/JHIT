@@ -229,6 +229,7 @@ header {
     width: auto;
     float: left;
     margin: 5px 0;
+    padding: 10px;
 }
 
 /* Main navi */
@@ -250,6 +251,7 @@ header {
     text-decoration: none;
     text-transform: uppercase;
     font-size: 90%;
+    font-weight: bold;
     border-bottom: 2px solid transparent;
     -webkit-transition: border-bottom 0.2s;
     transition: border-bottom 0.2s;
